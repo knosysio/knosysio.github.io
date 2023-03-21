@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://ourai.github.io/knosys/about/</loc>
+<loc>https://knosysio.github.io/about/</loc>
 </url>
 <url>
-<loc>https://ourai.github.io/knosys/</loc>
+<loc>https://knosysio.github.io/</loc>
 </url>
 <url>
-<loc>https://ourai.github.io/knosys/apis/cli/</loc>
+<loc>https://knosysio.github.io/apis/cli/</loc>
 </url>
 <url>
-<loc>https://ourai.github.io/knosys/apis/config/</loc>
+<loc>https://knosysio.github.io/apis/config/</loc>
 </url>
 <url>
-<loc>https://ourai.github.io/knosys/apis/meta/</loc>
+<loc>https://knosysio.github.io/apis/meta/</loc>
 </url>
 </urlset>
